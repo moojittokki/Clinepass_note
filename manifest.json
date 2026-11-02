@@ -1,0 +1,11 @@
+{
+  "id": "clinepass-composer",
+  "name": "ClinePass Composer",
+  "version": "1.2.9",
+  "minAppVersion": "0.15.0",
+  "description": "ClinePass 전용 AI 어시스턴트: 볼트 컨텍스트 채팅, 스마트 작성 보조, 원클릭 편집.",
+  "author": "moojittokki (fork of Smart Composer by Heesu Suh)",
+  "authorUrl": "https://github.com/moojittokki",
+  "fundingUrl": "https://buymeacoffee.com/kevin.on",
+  "isDesktopOnly": false
+}
